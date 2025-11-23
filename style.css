@@ -198,7 +198,7 @@
 }
 
 .cajaconfirmar{
-    width: 40%;
+    width: 50%;
     height: 40px;
     background-color: rgb(124, 178, 241);
     border-radius: 30px;
@@ -239,4 +239,5 @@
     font-weight: 500;
     font-size: .8em;
     text-align: right;
+
 }
